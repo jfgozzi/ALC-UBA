@@ -1,0 +1,1 @@
+- Una matriz $A$ es ortogonal si $A^t = A^{-1}$ y por consiguiente $AA^T = I$ y $A^TA = I$.
